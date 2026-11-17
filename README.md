@@ -1,17 +1,30 @@
-Course ID: 21CSC203P
-Course Name: Advanced Programming Practice
 
-Team Members Details: 
-  Department - CSE          Section - E        Academic Year - 2026-27
-   1.Sadhanaa Shree K K - RA2511003050279
-   2. Shruthi Sherly Stephen - RA2511003050282
-   3. Anshika Chaudhary - RA2511003050540
-   4. Archana B S - RA2511003050295
+ ##  Course Information
 
-Mentor Details:
-  Dr. S. Shargunam
-  AP/CSE
-     
+| **Field** | **Details** |
+|:---|:---|
+| **Course ID** | 21CSC203P |
+| **Course Name** | Advanced Programming Practice |
+| **Department** | Computer Science and Engineering (CSE) |
+| **Section** | E |
+| **Academic Year** | 2026–2027 |
+
+##  Team Members
+
+| **S.No.** | **Name** | **Register Number** |
+|:---:|---|:---:|
+| 1 | Sadhanaa Shree K K | RA2511003050279 |
+| 2 | Shruthi Sherly Stephen | RA2511003050282 |
+| 3 | Anshika Chaudhary | RA2511003050540 |
+| 4 | Archana B S | RA2511003050295 |
+
+##  Mentor Details
+
+| **Field** | **Details** |
+|:---|:---|
+| **Name** | Dr. S. Shargunam |
+| **Designation** | Assistant Professor (AP) |
+| **Department** | Computer Science and Engineering (CSE) |    
 
 # NIGHT FURY 🎵
 ### Emotion-Based Music Recommendation System
