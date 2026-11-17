@@ -1,3 +1,18 @@
+Course ID: 21CSC203P
+Course Name: Advanced Programming Practice
+
+Team Members Details: 
+  Department - CSE          Section - E        Academic Year - 2026-27
+   1.Sadhanaa Shree K K - RA2511003050279
+   2. Shruthi Sherly Stephen - RA2511003050282
+   3. Anshika Chaudhary - RA2511003050540
+   4. Archana B S - RA2511003050295
+
+Mentor Details:
+  Dr. S. Shargunam
+  AP/CSE
+     
+
 # NIGHT FURY 🎵
 ### Emotion-Based Music Recommendation System
 
